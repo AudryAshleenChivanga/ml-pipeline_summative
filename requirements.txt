@@ -1,0 +1,9 @@
+flask==2.0.3
+werkzeug==2.0.3
+waitress==2.1.2
+pymongo==4.3.3
+python-dotenv==0.21.1
+prometheus-client==0.16.0
+# Model Management
+h5py==3.10.0  # Required for model validation
+tensorflow==2.10.0

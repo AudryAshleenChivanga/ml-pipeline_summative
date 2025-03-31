@@ -1,0 +1,1 @@
+ln -sf ../CNN_Model_1.h5 models/current/glaucoma_model_latest.h5
