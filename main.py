@@ -7,7 +7,7 @@ import numpy as np
 import shutil
 from io import BytesIO
 
-# FastAPI application
+# Create FastAPI application
 app = FastAPI()
 
 # Load the model once at startup
