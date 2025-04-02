@@ -59,7 +59,7 @@ Install the required dependencies:
 ````
 pip install -r requirements.txt
 ````
-Data Loading and Preprocessing
+# Data Loading and Preprocessing
 Loading Data into MongoDB
 The dataset was stored in MongoDB to enable efficient querying and retrieval of image data. The following steps were taken:
 
@@ -90,8 +90,8 @@ To train the model, run:
 ''''
 python src/model_training.py
 ''''
-Model Evaluation
-The trained model was evaluated using the following metrics:
+# Model Evaluation
+## The trained model was evaluated using the following metrics:
 
 Accuracy
 
@@ -110,8 +110,8 @@ To make predictions on new images, use:
 ````
 python src/prediction.py --image_path /path/to/image.jpg
 ````
-Technologies Used
-This project utilizes:
+# Technologies Used
+## This project utilizes:
 
 Machine Learning: TensorFlow, Keras
 
@@ -123,5 +123,5 @@ Model Training & Evaluation: Scikit-learn, Matplotlib
 
 Backend : FastAPI
 
-Author :
-**Audry Ashleen Chivanga**
+# Author :
+**Audry Ashleen Chivanga**S
