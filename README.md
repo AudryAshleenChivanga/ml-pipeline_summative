@@ -3,6 +3,14 @@
 ## Task Overview
 The **ML Pipelines and Model Retraining for Pre-trained Glaucoma Prediction Model** project focuses on enhancing a pre-trained convolutional neural network (CNN) to improve glaucoma detection accuracy. This was achieved by applying data augmentation techniques, optimizing the architecture with regularization methods, and retraining the model on new data. The final model was evaluated using performance metrics such as accuracy, precision, recall, and F1-score.
 
+## Project front-end is to be found here : 
+https://github.com/AudryAshleenChivanga/pipeline_summative-frontend
+
+## Video recording link : 
+
+## Live Project Deployed : 
+
+
 ## Dataset
 The project utilizes a dataset containing retinal fundus images labeled for glaucoma detection. The dataset includes:
 
