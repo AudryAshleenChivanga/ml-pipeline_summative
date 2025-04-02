@@ -21,7 +21,7 @@ The project utilizes a dataset containing retinal fundus images labeled for glau
 - **Other Metadata:** Additional clinical features that may assist in prediction.
 
 ## Project Structure
-BankCustomerChurnPredictor/
+ML-PIPELINE_SUMMATIVE/
 ````
 ├── data/
 │   ├──mongo/migrations
