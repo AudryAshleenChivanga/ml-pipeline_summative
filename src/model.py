@@ -79,6 +79,4 @@ def predict_from_mongo(file_id):
         logging.error("Image could not be processed.")
         return None
 
-# Example: Predict an image from MongoDB
-file_id = "<MongoDB file_id_here>"  # Replace with a valid file ID
-predict_from_mongo(file_id)
+

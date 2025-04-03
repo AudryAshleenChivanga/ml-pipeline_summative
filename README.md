@@ -7,7 +7,7 @@ The **ML Pipelines and Model Retraining for Pre-trained Glaucoma Prediction Mode
 https://github.com/AudryAshleenChivanga/pipeline_summative-frontend
 
 ## Video recording link : 
-
+https://vimeo.com/1072370971?share=copy
 ## Live Project Deployed : 
 
 
