@@ -132,4 +132,4 @@ Model Training & Evaluation: Scikit-learn, Matplotlib
 Backend : FastAPI
 
 # Author :
-**Audry Ashleen Chivanga**S
+**Audry Ashleen Chivanga**
