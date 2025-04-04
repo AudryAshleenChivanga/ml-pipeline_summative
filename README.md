@@ -129,7 +129,7 @@ Data Processing: NumPy, OpenCV, Pandas
 
 Model Training & Evaluation: Scikit-learn, Matplotlib
 
-Backend : FastAPI
+Backend : FlaskApp
 
 # Author :
 **Audry Ashleen Chivanga**
