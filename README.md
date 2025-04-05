@@ -10,6 +10,7 @@ https://github.com/AudryAshleenChivanga/pipeline_summative-frontend
 https://vimeo.com/1072370971?share=copy
 ## Live Project Deployed : 
 https://audryashleenchivanga.github.io/pipeline_summative-frontend/
+Backend : Docker Image
 
 ## Dataset
 The project utilizes a dataset containing retinal fundus images labeled for glaucoma detection. The dataset includes:
@@ -57,15 +58,14 @@ Clone the repository:
 git clone https://github.com/AudryAshleenChivanga/ml-pipeline_summative/tree/main
 cd ml-pipeline_summative
 ````
-Create a virtual environment and activate it:
+Create a docker image and run it 
 ````
-python3 -m venv venv
-source venv/bin/activate
+docker build -t glaucoma-api .
 ````
 
-Install the required dependencies:
+Run the container:
 ````
-pip install -r requirements.txt
+docker run -d -p 8000:8000 glaucoma-api
 ````
 # Data Loading and Preprocessing
 Loading Data into MongoDB
@@ -129,7 +129,7 @@ Data Processing: NumPy, OpenCV, Pandas
 
 Model Training & Evaluation: Scikit-learn, Matplotlib
 
-Backend : FastAPI
+Backend : Run Docker Container.
 
 # Author :
 **Audry Ashleen Chivanga**
