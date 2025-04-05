@@ -44,7 +44,7 @@ ML-PIPELINE_SUMMATIVE/
 |
 ├── main.py
 |
-├── requirements.in
+├── Docker
 ├── requirements.txt
 |
 └── models/
