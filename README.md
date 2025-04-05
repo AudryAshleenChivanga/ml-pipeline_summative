@@ -10,7 +10,8 @@ https://github.com/AudryAshleenChivanga/pipeline_summative-frontend
 https://vimeo.com/1072370971?share=copy
 ## Live Project Deployed : 
 https://audryashleenchivanga.github.io/pipeline_summative-frontend/
-Backend : Docker Image
+##Backend
+Docker 
 
 ## Dataset
 The project utilizes a dataset containing retinal fundus images labeled for glaucoma detection. The dataset includes:

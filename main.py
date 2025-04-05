@@ -246,14 +246,14 @@ async def retrain_model():
     global model, current_model_path
     
     try:
-        # Load data
+      
         X_train, y_train = fetch_dataset_from_mongo("train")
         X_val, y_val = fetch_dataset_from_mongo("val")
         
         if len(X_train) == 0 or len(X_val) == 0:
             raise ValueError("Insufficient training data. Please upload more images.")
 
-        # Create new model instance
+        # Creating new model instance
         model_config = model.get_config()
         new_model = Sequential.from_config(model_config)
         new_model.compile(
