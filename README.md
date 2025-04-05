@@ -9,7 +9,7 @@ https://github.com/AudryAshleenChivanga/pipeline_summative-frontend
 ## Video recording link : 
 https://vimeo.com/1072370971?share=copy
 ## Live Project Deployed : 
-
+https://audryashleenchivanga.github.io/pipeline_summative-frontend/
 
 ## Dataset
 The project utilizes a dataset containing retinal fundus images labeled for glaucoma detection. The dataset includes:
